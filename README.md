@@ -1,1 +1,1 @@
-# Aplicacoes desenvilvidas com JavaScript.
+# Aplicacoes desenvolvidas com JavaScript.
